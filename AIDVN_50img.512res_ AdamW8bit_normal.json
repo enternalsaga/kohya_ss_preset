@@ -93,7 +93,7 @@
   "shuffle_caption": true,
   "stop_text_encoder_training_pct": 0,
   "text_encoder_lr": 1e-05,
-  "train_batch_size": 4,
+  "train_batch_size": 1,
   "train_data_dir": "/content/drive/MyDrive/AIDVN_Train/your_lora_name/img",
   "train_on_input": true,
   "training_comment": "",
