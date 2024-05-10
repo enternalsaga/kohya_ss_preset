@@ -96,7 +96,7 @@
   "train_batch_size": 4,
   "train_data_dir": "/content/drive/MyDrive/AIDVN_Train/your_lora_name/img",
   "train_on_input": true,
-  "training_comment": "",
+  "training_comment": "created by AI+DesignVN",
   "unet_lr": 0.33,
   "unit": 1,
   "up_lr_weight": "",
